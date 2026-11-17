@@ -2,6 +2,8 @@
 
 ![Local OCR](docs/banner.jpg)
 
+> **Test version.** This app is live, but I have not checked it myself yet. If you want to use it, keep that in mind.
+
 Read text from scans, photos and PDFs. It straightens the page, cleans it up and runs OCR. Everything happens on your device, so nothing is uploaded.
 
 **[Open the app](https://davydmedvedchuk.github.io/local-ocr/)**
